@@ -1,0 +1,16 @@
+1. Indique qual o tipo dos seguintes dados (Inteiro, Decimal, String ou Booleano): 
+(a) -456 = int
+(b) false = Booleano
+(c) “0.87” = String
+(d) 1.67 = float
+(e) “Casa 8” = String
+(f) 0 = int
+(g) 1000 = int
+(h) true = Booleano
+(i) “-900” = Srting
+(j) 3 = int
+(k) 0.0 = float
+(l) -3.1415 = float
+(m) 32150 = int
+(n) 128288 = int
+(o) “false” = Booleano
